@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/mike/Desktop/Seam Resize/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -isystem /usr/local/var/vcpkg/installed/x64-osx/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -std=gnu++2a -o CMakeFiles/SeamResize.dir/main.cpp.o -c \"/Users/mike/Desktop/Seam Resize/main.cpp\"",
+  "file": "/Users/mike/Desktop/Seam Resize/main.cpp"
+}
+]

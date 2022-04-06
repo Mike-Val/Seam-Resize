@@ -1,0 +1,5 @@
+/Users/mike/Desktop/Seam Resize/build/CMakeFiles/rebuild_cache.dir
+/Users/mike/Desktop/Seam Resize/build/CMakeFiles/edit_cache.dir
+/Users/mike/Desktop/Seam Resize/build/CMakeFiles/package_source.dir
+/Users/mike/Desktop/Seam Resize/build/CMakeFiles/package.dir
+/Users/mike/Desktop/Seam Resize/build/CMakeFiles/SeamResize.dir
